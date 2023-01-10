@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+p {
+    font-family: Helvetica;
+    font-style: italic;
+}
+body {
+    background-image: linear-gradient(to right, #ff847c, #feceab);
+}
+div #Item1 {
+    opacity: 100%;
+}
+div #Item2 {
+    opacity: 75%;
+}
+div #Item3 {
+    opacity: 50%;
+}
+.intro {
+    height: auto;
+}
